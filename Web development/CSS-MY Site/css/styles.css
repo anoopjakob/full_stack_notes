@@ -12,28 +12,5 @@ h1 {
   background-color: #e0ece4;
 }
 
-.mid-div {
-  background-color: green;
-  height: 200px;
-  width: 200px;
-}
-
-.bottom-div {
-  background-color: orange;
-  height: 200px;
-  width: 200px;
-  position: relative;
-  bottom: 200px;
-  left: 200px;
-}
-
-.bottom-most-div {
-  background-color: blue;
-  height: 200px;
-  width: 200px;
-  position: relative;
-  bottom: 400px;
-  left: 500px;
-}
 
 /********************************ID SELECTORS**********************************/
