@@ -1,0 +1,27 @@
+/******************************TAG SELECTORS**********************************/
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+/******************************CLASS SELECTORS**********************************/
+.top-div {
+  background-color: #e0ece4;
+}
+
+.mid-div {
+  background-color: green;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom-div {
+  background-color: orange;
+  height: 200px;
+  width: 200px;
+}
+
+/********************************ID SELECTORS**********************************/
