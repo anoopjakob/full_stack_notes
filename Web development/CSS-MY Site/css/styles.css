@@ -13,25 +13,29 @@ h1 {
 }
 
 .mid-div {
-  background-color: green;
+  background-color: red;
   height: 200px;
   width: 200px;
   display: inline-block;
+  position: absolute;
+  left: 400px;
+  top: 905.43px;
 }
 
 .bottom-div {
-  background-color: orange;
-  height: 200px;
-  width: 200px;
-  position: relative;
-  display: inline-block;
-}
-
-.bottom-most-div {
   background-color: blue;
   height: 200px;
   width: 200px;
-  position: relative;
+  display: inline-block;
+position: absolute;
+left: 200px;
+top: 705.43px;
+}
+
+.bottom-most-div {
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
   display: inline-block;
 }
 
