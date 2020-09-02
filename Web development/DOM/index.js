@@ -1,1 +1,1 @@
-alert("hello my world");
+document.query
